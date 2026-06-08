@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+env/
+qrcodes_laser/
+carga_inicial_cartoes.csv
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.log
+.streamlit/
