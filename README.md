@@ -157,3 +157,4 @@ Os terminais dos vendedores (tablets) operam apoiados em suportes angulados impr
 - [ ] Planejar construção dos cartões e material 3D.
 - [ ] Subir app para o streamlit.
 - [ ] Consertar bugs na view "vendor"
+- [ ] Reiniciar cartões e tirar .csv (+ semelhantes) do git repo.
